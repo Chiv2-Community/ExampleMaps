@@ -1,7 +1,7 @@
-site_name: __NAME__
-site_description: __DESCRIPTION__
-site_url: __SITE_URL__
-repo_url: __REPO_URL__
+site_name: ExampleMaps
+site_description: Example Chivalry 2 Maps for the ArgonSDK project
+site_url: https://Chiv2-Community.github.io/ExampleMaps/
+repo_url: https://github.com/Chiv2-Community/ExampleMaps
 edit_uri: edit/main/docs/
 
 
